@@ -20,6 +20,10 @@ public:
         for(int i=0;i<hijos.size();i++)
             hijos[i]->imprimir();
     }
+
+    void sumar(){
+
+    }
 };
 
 int main()
